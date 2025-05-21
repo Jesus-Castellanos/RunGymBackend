@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunGym", "RunGym.csproj", "{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Codigo", "Codigo", "{47274E54-0444-4026-BA79-356B59CE588C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{31D144B2-48B4-455B-9683-00695A9BB0F0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Tabla Propuesta Proyecto 2024-RunGym.docx = ..\..\..\Downloads\Tabla Propuesta Proyecto 2024-RunGym.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scrip", "Scrip", "{BA26343B-DE68-4410-A9AB-9DA95945F97F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Scrip RunGym-Base de Datos.sql = ..\..\..\Downloads\Scrip RunGym-Base de Datos.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE8E8298-CFF7-4D82-BD08-FC51AE5839F6} = {47274E54-0444-4026-BA79-356B59CE588C}
+	EndGlobalSection
+EndGlobal
