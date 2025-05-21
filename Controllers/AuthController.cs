@@ -7,7 +7,6 @@ using RunGym.Run;
 using RunGym.Models;
 using RunGym.Repositorios.Interfaces;
 
-
 namespace RunGym.Controllers
 {
     [Route("api/[controller]")]
