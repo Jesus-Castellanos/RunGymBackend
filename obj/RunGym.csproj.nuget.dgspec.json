@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGym\\RunGym.csproj": {}
+    "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGymBackend\\RunGym.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGym\\RunGym.csproj": {
+    "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGymBackend\\RunGym.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGym\\RunGym.csproj",
+        "projectUniqueName": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGymBackend\\RunGym.csproj",
         "projectName": "RunGym",
-        "projectPath": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGym\\RunGym.csproj",
+        "projectPath": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGymBackend\\RunGym.csproj",
         "packagesPath": "C:\\Users\\caste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGym\\obj\\",
+        "outputPath": "C:\\Users\\caste\\source\\repos\\RunGym1\\RunGymBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\NuGetPackages"

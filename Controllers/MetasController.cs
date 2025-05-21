@@ -45,6 +45,7 @@ namespace RunGym.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
         [HttpPut("PutMetas/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -71,6 +72,7 @@ namespace RunGym.Controllers
             }
 
         }
+
         [HttpDelete("DeleteMetas/{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -89,7 +91,6 @@ namespace RunGym.Controllers
             {
                 return BadRequest(ex.Message);
             }
-
         }
     }
 }
