@@ -20,7 +20,6 @@ namespace RunGym.Repositorios
             base.OnModelCreating(modelBuilder);
             EntityConfuguration(modelBuilder);
         }
-
         private void EntityConfuguration(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Usuarios>().ToTable("Usuarios");
